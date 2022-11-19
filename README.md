@@ -43,7 +43,7 @@ new AppOpenManager(context, "ADMOB_OPEN_ADS_ID");
 <application
         name=".MyApplication"
         
-       >
+        >
 ```
 
 <br/>
