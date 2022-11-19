@@ -27,7 +27,7 @@ Add it in your root app.gradle at the end of repositories: <br/>
 
 dependencies {
 	
-	https://github.com/ShaheenDevelopers/sdk_appopen
+	implementation 'com.github.ShaheenDevelopers:sdk_appopen:1.0.0'
 	
 }
 ```
