@@ -24,10 +24,11 @@ allprojects {
 
 Add it in your root app.gradle at the end of repositories: <br/>
 ```gradle
+
 dependencies {
-	...
-	implementation 'com.github.1902shubh:AdmobOpenAds:1.0.1'
-	...
+	
+	https://github.com/ShaheenDevelopers/sdk_appopen
+	
 }
 ```
 
