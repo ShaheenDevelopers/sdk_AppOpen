@@ -1,10 +1,10 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://shields.io/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaheen.devopenads) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaheen.devopenads)
 
 # AdmobOpenAds
 Implement admob open ads in your android app.<br/><br/>
- <img src="https://user-images.githubusercontent.com/46995327/122922701-8b862b80-d381-11eb-8431-4030ef740f81.jpg" width="250"  alt="DEMO"/>
+<img src="https://user-images.githubusercontent.com/46995327/122922701-8b862b80-d381-11eb-8431-4030ef740f81.jpg" width="250"  alt="DEMO"/>
 
 # How to Implement
 To get a Git project into your build:
@@ -19,7 +19,7 @@ allprojects {
 	}
 }
 ```
-    
+
 > Step 2. Add the dependency
 
 Add it in your root app.gradle at the end of repositories: <br/>
@@ -40,10 +40,10 @@ new AppOpenManager(context, "ADMOB_OPEN_ADS_ID");
 ```
 > Step 2. Update menifest
 ```xml
-<application 
-	name=".MyApplication"
-	...
->
+<application
+        name=".MyApplication"
+        
+       >
 ```
 
 <br/>
