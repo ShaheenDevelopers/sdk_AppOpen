@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaheen.devopenads)
 
